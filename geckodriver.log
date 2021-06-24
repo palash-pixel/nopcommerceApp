@@ -1,0 +1,661 @@
+1623826617857	geckodriver	INFO	Listening on 127.0.0.1:59470
+1623826620951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofilexvrCW8"
+1623826623033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofilexvrCW8\\search.json.mozlz4", (void 0)))
+1623826632058	Marionette	INFO	Listening on port 59479
+1623826633608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623826636633	Marionette	INFO	Stopped listening on port 59479
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 9092, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623826638670	geckodriver	INFO	Listening on 127.0.0.1:59534
+1623826641746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile47Iwjp"
+1623826642072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile47Iwjp\\search.json.mozlz4", (void 0)))
+1623826646724	Marionette	INFO	Listening on port 59543
+1623826647777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623826653797	Marionette	INFO	Stopped listening on port 59543
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623826778845	geckodriver	INFO	Listening on 127.0.0.1:53334
+1623826781899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileCvcSRE"
+1623826782285	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileCvcSRE\\search.json.mozlz4", (void 0)))
+1623826785661	Marionette	INFO	Listening on port 53342
+1623826786845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623826788645	Marionette	INFO	Stopped listening on port 53342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623826790414	geckodriver	INFO	Listening on 127.0.0.1:53384
+1623826793486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileZYuAwM"
+1623826793767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileZYuAwM\\search.json.mozlz4", (void 0)))
+1623826798116	Marionette	INFO	Listening on port 53392
+1623826799685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623826804490	Marionette	INFO	Stopped listening on port 53392
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623827265244	geckodriver	INFO	Listening on 127.0.0.1:63490
+1623827268266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileRvOWyb"
+1623827268574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileRvOWyb\\search.json.mozlz4", (void 0)))
+1623827272347	Marionette	INFO	Listening on port 63498
+1623827273129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623827274935	Marionette	INFO	Stopped listening on port 63498
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1623827276839	geckodriver	INFO	Listening on 127.0.0.1:63536
+1623827279869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileBVc0IP"
+1623827280177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileBVc0IP\\search.json.mozlz4", (void 0)))
+1623827284167	Marionette	INFO	Listening on port 63545
+1623827284856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623827288225	Marionette	INFO	Stopped listening on port 63545
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623827443358	geckodriver	INFO	Listening on 127.0.0.1:51303
+1623827446420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileziCD1i"
+1623827446681	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileziCD1i\\search.json.mozlz4", (void 0)))
+1623827450824	Marionette	INFO	Listening on port 51311
+1623827451158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623827452235	Marionette	INFO	Stopped listening on port 51311
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1623827521452	geckodriver	INFO	Listening on 127.0.0.1:51356
+1623827524472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofilebstT86"
+1623827525470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofilebstT86\\search.json.mozlz4", (void 0)))
+1623827528487	Marionette	INFO	Listening on port 51364
+1623827529534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623827534158	Marionette	INFO	Stopped listening on port 51364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623828031537	geckodriver	INFO	Listening on 127.0.0.1:59920
+1623828034644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileUhOppF"
+1623828035050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileUhOppF\\search.json.mozlz4", (void 0)))
+1623828038612	Marionette	INFO	Listening on port 59928
+1623828038899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623828040486	Marionette	INFO	Stopped listening on port 59928
+[Parent 2084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623828042060	geckodriver	INFO	Listening on 127.0.0.1:59968
+1623828045116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile9YtBqR"
+1623828045445	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile9YtBqR\\search.json.mozlz4", (void 0)))
+1623828048798	Marionette	INFO	Listening on port 59980
+1623828049599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623828053498	Marionette	INFO	Stopped listening on port 59980
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1623828348430	geckodriver	INFO	Listening on 127.0.0.1:60085
+1623828351500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileLK7Tlo"
+1623828351797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileLK7Tlo\\search.json.mozlz4", (void 0)))
+1623828355362	Marionette	INFO	Listening on port 60093
+1623828356610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623828358339	Marionette	INFO	Stopped listening on port 60093
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623828360114	geckodriver	INFO	Listening on 127.0.0.1:60139
+1623828363171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile3lt21O"
+1623828363454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile3lt21O\\search.json.mozlz4", (void 0)))
+1623828366511	Marionette	INFO	Listening on port 60147
+1623828367518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623828370724	Marionette	INFO	Stopped listening on port 60147
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623828518267	geckodriver	INFO	Listening on 127.0.0.1:60242
+1623828521330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileaIvEOn"
+1623828521721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileAARdKv\\search.json.mozlz4", (void 0)))
+1623828526908	Marionette	INFO	Listening on port 60260
+1623828527784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623828532027	Marionette	INFO	Stopped listening on port 60260
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623967713146	geckodriver	INFO	Listening on 127.0.0.1:49247
+1623967716140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileRr8VPM"
+1623967718722	geckodriver	INFO	Listening on 127.0.0.1:53548
+1623967721798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileSeuRsB"
+1623967724724	Marionette	INFO	Marionette enabled
+
+###!!! [Parent][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[GFX1-]: Fallback (SW-)WR to Basic
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x53000C,name=PGPU::Msg_UpdateVar) Channel error: cannot send/recv
+
+[GFX1-]: Failed to initialize GPU process
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x53000C,name=PGPU::Msg_UpdateVar) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x53001C,name=PGPU::Msg_ShutdownVR) Channel error: cannot send/recv
+
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1003: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 417: TypeError: this.browsingContext is null
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1003: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1003: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1003: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1003: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1478: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1478: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1478: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1478: TypeError: messageManager is null
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileSeuRsB\\search.json.mozlz4", (void 0)))
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4138: Error: Area not yet restored
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1003: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 34: TypeError: this._browser.frameLoader.remoteTab is null
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4138: Error: Area not yet restored
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1676: TypeError: bc is null
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4138: Error: Area not yet restored
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1676: TypeError: bc is null
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4138: Error: Area not yet restored
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1676: TypeError: bc is null
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1676: TypeError: bc is null
+[Parent 3848, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 124: TypeError: mm is null
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4833: TypeError: aWindow.gNavToolbox.palette is undefined
+1623992850507	geckodriver	INFO	Listening on 127.0.0.1:61016
+1623992853554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileEaiw6i"
+1623992854381	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileEaiw6i\\search.json.mozlz4", (void 0)))
+1623992859616	Marionette	INFO	Listening on port 61024
+1623992860253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623992867052	Marionette	INFO	Stopped listening on port 61024
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623992956462	geckodriver	INFO	Listening on 127.0.0.1:61103
+1623992959525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofilemchm1n"
+1623992959849	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofilemchm1n\\search.json.mozlz4", (void 0)))
+1623992962787	Marionette	INFO	Listening on port 61111
+1623992963187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623993038115	Marionette	INFO	Stopped listening on port 61111
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623993114622	geckodriver	INFO	Listening on 127.0.0.1:61198
+1623993117688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofilectcSgl"
+1623993118001	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofilectcSgl\\search.json.mozlz4", (void 0)))
+1623993121236	Marionette	INFO	Listening on port 61210
+1623993122251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623993139260	Marionette	INFO	Stopped listening on port 61210
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624036149804	geckodriver	INFO	Listening on 127.0.0.1:63252
+1624036152871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile6ukutz"
+1624036153897	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile6ukutz\\search.json.mozlz4", (void 0)))
+1624036160365	Marionette	INFO	Listening on port 60253
+1624036161312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624036657658	Marionette	INFO	Stopped listening on port 60253
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624246505423	geckodriver	INFO	Listening on 127.0.0.1:54022
+1624246508527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileRBLYeM"
+1624246511893	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileRBLYeM\\search.json.mozlz4", (void 0)))
+1624246522011	Marionette	INFO	Listening on port 54015
+1624246522898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://forum.piit.us/Themes/Anecdota_20g/css/index.css?fin20 without a browsingContextID set
+1624246745176	Marionette	INFO	Stopped listening on port 54015
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624246783366	geckodriver	INFO	Listening on 127.0.0.1:57739
+1624246786420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileIFxHll"
+1624246787418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileIFxHll\\search.json.mozlz4", (void 0)))
+1624246790763	Marionette	INFO	Listening on port 58588
+1624246791220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624246849770	Marionette	INFO	Stopped listening on port 58588
+1624246853973	geckodriver	INFO	Listening on 127.0.0.1:59187
+1624246857043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileKAC5fx"
+1624246857321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileKAC5fx\\search.json.mozlz4", (void 0)))
+1624246860368	Marionette	INFO	Listening on port 65143
+1624246860682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624246888406	Marionette	INFO	Stopped listening on port 65143
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624246957433	geckodriver	INFO	Listening on 127.0.0.1:53919
+1624246960495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofilelr1iet"
+1624246960775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofilelr1iet\\search.json.mozlz4", (void 0)))
+1624246963751	Marionette	INFO	Listening on port 53927
+1624246964155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624247265283	Marionette	INFO	Stopped listening on port 53921624247265714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileoY5STZ"
+1624247265975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileoY5STZ\\search.json.mozlz4", (void 0)))
+1624247269139	Marionette	INFO	Listening on port 54035
+1624247269655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624247471227	Marionette	INFO	Stopped listening on port 54035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624428563465	geckodriver	INFO	Listening on 127.0.0.1:61669
+1624428566558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileKoW4dW"
+1624428568405	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile6q2Kee\\search.json.mozlz4", (void 0)))
+1624428578106	Marionette	INFO	Listening on port 61696
+1624428578934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624428656583	Marionette	INFO	Stopped listening on port 61696
+[Parent 13696, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+kElement@chrome://marionette/content/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:156:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1624428603093	Marionette	INFO	Stopped listening on port 61697
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624428611054	geckodriver	INFO	Listening on 127.0.0.1:61896
+1624428614125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile2EEE2y"
+1624428614437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile2EEE2y\\search.json.mozlz4", (void 0)))
+1624428617588	Marionette	INFO	Listening on port 61906
+1624428618516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624428620623	Marionette	INFO	Stopped listening on port 61906
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624428657372	geckodriver	INFO	Listening on 127.0.0.1:61983
+1624428660437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileb6UsqI"
+1624428660699	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileb6UsqI\\search.json.mozlz4", (void 0)))
+1624428663443	Marionette	INFO	Listening on port 61991
+1624428663681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624428668335	Marionette	INFO	Stopped listening on port 61991
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624571607927	geckodriver	INFO	Listening on 127.0.0.1:56112
+1624571610951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofilebHABEm"
+1624571613240	geckodriver	INFO	Listening on 127.0.0.1:62173
+1624571616302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile3wYdsL"
+1624571619723	Marionette	INFO	Marionette enabled
+
+###!!! [Parent][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[GFX1-]: Fallback (SW-)WR to Basic
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x53000C,name=PGPU::Msg_UpdateVar) Channel error: cannot send/recv
+
+[GFX1-]: Failed to initialize GPU process
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x53000C,name=PGPU::Msg_UpdateVar) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x53001C,name=PGPU::Msg_ShutdownVR) Channel error: cannot send/recv
+
+[Parent 6968, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230072,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390075,name=PContent::Msg_RegisterBrowsingContextGroup) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390005,name=PContent::Msg_ConstructBrowser) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAF000E,name=PWindowGlobal::Msg_SetContainerFeaturePolicy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2300A6,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23006E,name=PBrowser::Msg_InitRendering) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23009F,name=PBrowser::Msg_SafeAreaInsetsChanged) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_LoadRemoteScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23006A,name=PBrowser::Msg_Show) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230070,name=PBrowser::Msg_LoadURL) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_LoadRemoteScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230072,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390075,name=PContent::Msg_RegisterBrowsingContextGroup) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390005,name=PContent::Msg_ConstructBrowser) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAF000E,name=PWindowGlobal::Msg_SetContainerFeaturePolicy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2300A6,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23006E,name=PBrowser::Msg_InitRendering) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23009F,name=PBrowser::Msg_SafeAreaInsetsChanged) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_LoadRemoteScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23006A,name=PBrowser::Msg_Show) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230070,name=PBrowser::Msg_LoadURL) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_LoadRemoteScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230072,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390075,name=PContent::Msg_RegisterBrowsingContextGroup) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390005,name=PContent::Msg_ConstructBrowser) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAF000E,name=PWindowGlobal::Msg_SetContainerFeaturePolicy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2300A6,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23006E,name=PBrowser::Msg_InitRendering) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23009F,name=PBrowser::Msg_SafeAreaInsetsChanged) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_LoadRemoteScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23006A,name=PBrowser::Msg_Show) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230070,name=PBrowser::Msg_LoadURL) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_LoadRemoteScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230072,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_LoadRemoteScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_LoadURI) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_LoadRemoteScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_LoadURI) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_LoadRemoteScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_LoadURI) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230098,name=PBrowser::Msg_LoadRemoteScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_LoadURI) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39003B,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390061,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+[Parent 6968, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6968, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390029,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39003B,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39003B,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39003B,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39003B,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390029,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390029,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390029,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39004F,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile3wYdsL\\search.json.mozlz4", (void 0)))
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://browser/content/tabbrowser.js, line 1911: TypeError: aBrowser.webProgress is undefined
+[Parent 6968, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+1624571632594	Marionette	INFO	Listening on port 62181
+1624571634450	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+Marionette threw an error: TypeError: target.browsingContext is null
+register@chrome://marionette/content/browser.js:483:19
+GeckoDriver.prototype.registerBrowser@chrome://marionette/content/driver.js:414:21
+GeckoDriver.prototype.newSession@chrome://marionette/content/driver.js:607:14
+
+JavaScript error: chrome://marionette/content/dom.js, line 48: TypeError: this.mm is null
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://marionette/content/driver.js, line 2346: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1676: TypeError: bc is null
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1676: TypeError: bc is null
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1676: TypeError: bc is null
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1676: TypeError: bc is null
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1676: TypeError: bc is null
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1676: TypeError: bc is null
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 124: TypeError: mm is null
+[Parent 6968, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5539: TypeError: browser.webProgress is undefined
+1624571753179	geckodriver	INFO	Listening on 127.0.0.1:51538
+1624571756201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileIwuxOk"
+1624571756481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofileIwuxOk\\search.json.mozlz4", (void 0)))
+1624571759439	Marionette	INFO	Listening on port 51546
+1624571759924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624571762093	Marionette	INFO	Stopped listening on port 51546
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624571763486	geckodriver	INFO	Listening on 127.0.0.1:57929
+1624571766542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile6EYMZ9"
+1624571766797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\palas\\AppData\\Local\\Temp\\rust_mozprofile6EYMZ9\\search.json.mozlz4", (void 0)))
+1624571770578	Marionette	INFO	Listening on port 57939
+1624571771425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624571777030	Marionette	INFO	Stopped listening on port 57939
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
