@@ -25,13 +25,13 @@ def browser(request):       ## This will return the browser value to setup metho
 
 ################# pytest HTML Report #####################
 ########### costomize input ##############
-# def pytest_configure(config):
-#     config._metadata['Project Name'] = 'nop Commerce'
-#     config._metadata['Module Name'] = 'Login'
-#     config._metadata['Tester']      = 'Palash'
-#
-# ## It is hook for delete/modify environment in for HTML report
-# @pytest.mark.optionalhook
-# def pytest_metadata(metadata):
-#     metadata.pop('JAVA_HOME',None)
-#     metadata.pop('Plugins', None)
+def pytest_configure(config):
+    config._metadata['Project Name'] = 'nop Commerce'
+    config._metadata['Module Name'] = 'Login'
+    config._metadata['Tester']      = 'Palash'
+
+## It is hook for delete/modify environment in for HTML report
+@pytest.mark.optionalhook
+def pytest_metadata(metadata):
+    metadata.pop('JAVA_HOME',None)
+    metadata.pop('Plugins', None)
